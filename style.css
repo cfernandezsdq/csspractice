@@ -21,6 +21,11 @@ img {
   float: left;
 }
 
+footer{
+  clear: both;
+  text-align: center;
+}
+
 p{
   color: pink ;
 }
